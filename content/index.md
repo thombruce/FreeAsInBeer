@@ -2,8 +2,6 @@
 navigation: false
 ---
 
-# TNT
+# Free as in Beer
 
-A dynamite Nuxt template.
-
-_Replace the contents of this file with your own at `/content/index.md`._
+Software that's absolutely free... as in beer.
