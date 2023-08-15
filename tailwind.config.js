@@ -10,7 +10,7 @@ module.exports = {
   ],
   daisyui: {
     themes: [
-      "cupcake",
+      { light: { ...require("daisyui/src/theming/themes")["[data-theme=cupcake]"] } },
       { dark: { ...require("daisyui/src/theming/themes")["[data-theme=halloween]"] }
       }
     ]
