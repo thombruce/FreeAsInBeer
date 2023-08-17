@@ -1,5 +1,7 @@
 ---
 author: Thom Bruce
+categories:
+  - Video Games
 tags:
   - roguelike
   - survival

@@ -1,6 +1,7 @@
 export default defineAppConfig({
   name: 'Free as in Beer',
   hostname: 'https://freeasinbeer.thombruce.com',
+  rss: 'blog',
   umami: {
     domain: 'umami.thombruce.com',
     id: '29c0e6b3-8a1e-4394-b29a-056523f2c92a'

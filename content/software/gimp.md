@@ -1,10 +1,11 @@
 ---
 author: Thom Bruce
+categories:
+  - Graphics
 tags:
+  - raster
   - graphics
   - photos
-  - editing
-  - manipulation
 ---
 
 # GIMP
