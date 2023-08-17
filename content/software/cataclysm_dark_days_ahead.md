@@ -1,5 +1,7 @@
 ---
 author: Thom Bruce
+gratis: true
+libre: true
 categories:
   - Video Games
 tags:
